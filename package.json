@@ -1,12 +1,17 @@
 {
-  "name": "keeniolib",
-  "version": "1.0.0",
-  "description": "Keen IO is an analytics API for modern developers. Track any event: signups, upgrades, impressions, purchases, powerups, errors, shares... Keen IO stores events in arbitrary JSON format, automatically ingesting any new events and rich custom properties you send. Our elegant query APIs make it straightforward to run counts, sums, segmentation, and more.",
-  "main": "./lib/index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "APIMATIC SDK Generator",
-  "dependencies": {
-    "request": "^2.55.0"
-  }
+    "name": "keeniolib",
+    "version": "1.0.0",
+    "description": "Keen IO is an analytics API for modern developers. Track any event: signups, upgrades, impressions, purchases, powerups, errors, shares... Keen IO stores events in arbitrary JSON format, automatically ingesting any new events and rich custom properties you send. Our elegant query APIs make it straightforward to run counts, sums, segmentation, and more.",
+    "main": "./lib/index.js",
+    "scripts": {
+        "test": "node temp/index.js"
+    },
+    "keywords": [
+        "api",
+        "keen.io"
+    ],
+    "author": "Jenny Nguyen",
+    "dependencies": {
+        "request": "^2.55.0"
+    }
 }
