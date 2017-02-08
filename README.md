@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/miiGit/Keen.io-NODE.png?label=ready&title=Ready)](https://waffle.io/miiGit/Keen.io-NODE)
 # Deployment Successful!
 You have succesfully deployed the SDK to this repository.
 
